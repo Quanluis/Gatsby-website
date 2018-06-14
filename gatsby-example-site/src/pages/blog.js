@@ -1,10 +1,9 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-const pagetwo = () => (
+const blog = () => (
   <div>
-    <h1>News</h1>
+    <h1>Blog</h1>
   </div>
 )
-
-export default pagetwo
+export default blog
